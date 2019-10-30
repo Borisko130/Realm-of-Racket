@@ -1,2 +1,2 @@
 # Realm-of-Racket
- Code from Realm of Rakcet book
+Realm of Racket exercises
